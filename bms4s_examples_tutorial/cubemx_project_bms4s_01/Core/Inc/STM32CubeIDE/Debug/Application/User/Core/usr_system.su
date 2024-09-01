@@ -1,0 +1,3 @@
+../Application/User/Core/usr_system.c:10:6:UsrSystemInitial	8	static
+../Application/User/Core/usr_system.c:24:6:UsrSystemGeneral	4	static
+../Application/User/Core/usr_system.c:31:6:AllPeripheralProc	4	static

@@ -1,0 +1,7 @@
+../Application/User/Core/usr_lcd.c:10:6:UsrLcdInit	6
+../Application/User/Core/usr_lcd.c:26:6:UsrLcdSendString	2
+../Application/User/Core/usr_lcd.c:36:6:UsrLcdClearDisplay	1
+../Application/User/Core/usr_lcd.c:42:6:UsrLcdSetCursor	3
+../Application/User/Core/usr_lcd.c:53:6:UsrI2CScan	3
+../Application/User/Core/usr_lcd.c:72:10:lcdSendCommandProc	2
+../Application/User/Core/usr_lcd.c:100:10:lcdSendDataProc	2

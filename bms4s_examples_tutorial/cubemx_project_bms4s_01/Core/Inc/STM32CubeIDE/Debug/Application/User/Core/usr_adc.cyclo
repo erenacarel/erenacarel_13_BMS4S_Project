@@ -1,0 +1,4 @@
+../Application/User/Core/usr_adc.c:11:6:UsrAdcInitial	2
+../Application/User/Core/usr_adc.c:32:6:UsrAdcGetValues	7
+../Application/User/Core/usr_adc.c:84:6:UsrAdcPeripheral	2
+../Application/User/Core/usr_adc.c:100:6:UsrAdcCallback	3

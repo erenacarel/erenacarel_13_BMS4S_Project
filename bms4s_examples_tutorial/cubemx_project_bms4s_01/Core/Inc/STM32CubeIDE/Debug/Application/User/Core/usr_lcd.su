@@ -1,0 +1,5 @@
+../Application/User/Core/usr_lcd.c:10:6:UsrLcdInit	8	static
+../Application/User/Core/usr_lcd.c:24:6:UsrLcdSendString	16	static
+../Application/User/Core/usr_lcd.c:35:6:UsrI2CScan	16	static
+../Application/User/Core/usr_lcd.c:54:10:lcdSendCommandProc	32	static
+../Application/User/Core/usr_lcd.c:82:10:lcdSendDataProc	32	static

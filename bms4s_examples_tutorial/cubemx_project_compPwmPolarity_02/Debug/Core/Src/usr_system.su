@@ -1,0 +1,3 @@
+../Core/Src/usr_system.c:18:6:UsrSystemInitial	16	static
+../Core/Src/usr_system.c:54:6:UsrSystemGeneral	8	static
+../Core/Src/usr_system.c:77:6:UsrBatteryOnOffControl	8	static

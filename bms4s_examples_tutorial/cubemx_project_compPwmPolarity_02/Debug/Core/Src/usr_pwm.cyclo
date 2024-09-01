@@ -1,0 +1,8 @@
+../Core/Src/usr_pwm.c:16:6:UsrInitPwm	1
+../Core/Src/usr_pwm.c:40:6:UsrTrigPwm1Channel1	1
+../Core/Src/usr_pwm.c:58:6:UsrTrigSwapPwm1Channel1	1
+../Core/Src/usr_pwm.c:83:6:UsrTrigPwm1Channel2	1
+../Core/Src/usr_pwm.c:101:6:UsrTrigSwapPwm1Channel2	1
+../Core/Src/usr_pwm.c:126:6:UsrTrigPwm1Channel3	1
+../Core/Src/usr_pwm.c:145:6:UsrTrigSwapPwm1Channel3	1
+../Core/Src/usr_pwm.c:170:6:UsrAllChannelLowLevel	1

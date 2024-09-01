@@ -1,0 +1,5 @@
+../Core/Src/usr_adc.c:23:17:AdcValuesMovingAverageProc	2
+../Core/Src/usr_adc.c:33:6:UsrReadAdc	5
+../Core/Src/usr_adc.c:103:6:UsrCheckBat0Bat1	6
+../Core/Src/usr_adc.c:123:6:UsrCheckBat1Bat2	7
+../Core/Src/usr_adc.c:147:6:UsrCheckBat2Bat3	7

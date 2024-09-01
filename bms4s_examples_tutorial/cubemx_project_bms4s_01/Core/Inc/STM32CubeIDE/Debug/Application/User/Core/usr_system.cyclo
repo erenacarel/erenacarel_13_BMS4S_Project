@@ -1,0 +1,3 @@
+../Application/User/Core/usr_system.c:10:6:UsrSystemInitial	2
+../Application/User/Core/usr_system.c:24:6:UsrSystemGeneral	1
+../Application/User/Core/usr_system.c:31:6:AllPeripheralProc	1

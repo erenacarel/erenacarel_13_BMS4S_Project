@@ -1,0 +1,13 @@
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:71:6:NMI_Handler	4	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:86:6:HardFault_Handler	8	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:102:6:MemManage_Handler	4	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:117:6:BusFault_Handler	4	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:132:6:UsageFault_Handler	4	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:147:6:SVC_Handler	4	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:160:6:DebugMon_Handler	4	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:173:6:PendSV_Handler	4	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:186:6:SysTick_Handler	8	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:207:6:RCC_IRQHandler	4	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:220:6:DMA1_Channel1_IRQHandler	8	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:234:6:USART1_IRQHandler	8	static
+C:/Users/eacarel/STM32CubeIDE/workspace_1.15.1/cubemx_project_bms4s_01/Core/Src/stm32f1xx_it.c:246:6:HAL_ADC_ConvCpltCallback	16	static
