@@ -1,0 +1,5 @@
+../Core/Src/usr_adc.c:29:17:AdcValuesMovingAverageProc	24	static
+../Core/Src/usr_adc.c:39:6:UsrReadAdc	64	static
+../Core/Src/usr_adc.c:113:6:UsrCheckBat0Bat1	16	static
+../Core/Src/usr_adc.c:153:6:UsrCheckBat1Bat2	16	static
+../Core/Src/usr_adc.c:199:6:UsrCheckBat2Bat3	16	static
